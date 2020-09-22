@@ -1,3 +1,11 @@
-- A reference to a related issue in your repository.
-- A description of the changes proposed in the pull request.
-- @mentions of the person or team responsible for reviewing proposed changes.
+This PR...
+## Changes
+-
+## Screenshots
+(prefer animated gif)
+## Checklist
+- [ ] tested locally
+- [ ] added new dependencies
+- [ ] updated the docs
+- [ ] added a test
+Fixes #
