@@ -1,4 +1,4 @@
-## [byrJahracal/hello-homepage](https://github.com/byrJahracal/hello-homepage.git)
+## [byrJahracal/hello-homepage](https://github.com/byrJahracal/hello-homepage)
 
 ***本项目为个人主页模板的开发，目标为生成完整的个人主页前后端模板。语言是java,使用springboot框架。快来加入吧，嘿嘿。***
 
