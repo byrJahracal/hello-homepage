@@ -1,0 +1,9 @@
+spring:
+  profiles:
+    active: dev
+server:
+  port: 5211
+  servlet:
+    context-path: /helloHomepage
+upload:
+  imagePath: /images
