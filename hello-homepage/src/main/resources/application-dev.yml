@@ -1,6 +1,11 @@
 server:
-  port: 5212
+  port: 8080
   servlet:
-    context-path: /helloHomepage
+    context-path: /
 upload:
   imagePath: /images
+spring:
+  thymeleaf:
+    prefix: classpath:/static/
+    suffix: .html
+    cache: false #关闭缓存

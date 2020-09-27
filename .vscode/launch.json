@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-HelloHomepageApplication<hello-homepage>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.ripple.hellohomepage.HelloHomepageApplication",
+            "projectName": "hello-homepage",
+            "args": ""
+        }
+    ]
+}
